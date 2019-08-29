@@ -31,6 +31,7 @@
     "build": "npm install && gulp",
     "test": "gulp && gulp test"
   },
+  "typings": "./src/main.d.ts",
   "author": "Afon",
   "license": "MIT"
 }
